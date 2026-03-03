@@ -1,0 +1,5 @@
+{
+    "name": "A* Pathfinding Visualizer",
+    "description": "Visualizador de algoritmos en Python",
+    "files": ["./main.py"]
+}
